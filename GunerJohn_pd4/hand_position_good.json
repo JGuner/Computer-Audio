@@ -1,0 +1,85 @@
+[
+    {
+        "type": "right_hand",
+        "x_pos": 5,
+        "contraction": 0,
+        "timestamp": 100,
+        "priority": 1
+    },
+    {
+        "type": "left_hand",
+        "x_pos": 5,
+        "contraction": 0,
+        "timestamp": 100,
+        "priority": 1
+    },
+    {
+        "type": "right_hand",
+        "x_pos": 4,
+        "contraction": 0,
+        "timestamp": 200,
+        "priority": 1
+    },
+    {
+        "type": "left_hand",
+        "x_pos": 4,
+        "contraction": 0,
+        "timestamp": 200,
+        "priority": 1
+    }, {
+        "type": "right_hand",
+        "x_pos": 3,
+        "contraction": 0,
+        "timestamp": 300,
+        "priority": 1
+    },
+    {
+        "type": "left_hand",
+        "x_pos": 3,
+        "contraction": 0,
+        "timestamp": 300,
+        "priority": 1
+    }, {
+        "type": "right_hand",
+        "x_pos": 2,
+        "contraction": 0,
+        "timestamp": 400,
+        "priority": 1
+    },
+    {
+        "type": "left_hand",
+        "x_pos": 2,
+        "contraction": 0,
+        "timestamp": 400,
+        "priority": 1
+    }, {
+        "type": "right_hand",
+        "x_pos": 1,
+        "contraction": 0,
+        "timestamp": 500,
+        "priority": 1
+    },
+    {
+        "type": "left_hand",
+        "x_pos": 1,
+        "contraction": 0,
+        "timestamp": 500,
+        "priority": 1
+    },
+
+    {
+        "type": "right_hand",
+        "x_pos": 0,
+        "contraction": 0,
+        "timestamp": 600,
+        "priority": 1
+    },
+    {
+        "type": "left_hand",
+        "x_pos": 0,
+        "contraction": 0,
+        "timestamp": 600,
+        "priority": 1
+    }
+
+]

@@ -1,0 +1,4 @@
+My ducking technique utilizes a filter in which filters out the higher frequencies within the background loop and also lowers the loop's gain to 75% of the original value. 
+Then, an end listener is used to tell when the GPS clip is finished to reset the filter so nothing is filtered and reset the gain to the original value.
+The only issue I ran into is when overriding the messageReceived method I misspelled the method and the background loop would never recover from the ducking of the audio.
+The ducking works better than I expected.

@@ -1,0 +1,3 @@
+The sound effects for the buttons were grabbed from FreeSound, they are mechanical and the stop sound has an added reverberation from the tape deck.
+The song I decided to use is Giant Steps by John Coltrane, the design was simple however the song is quite long so in order to test if the functionality worked properly I had to wait for a good minute or so to reach the end.
+All of the buttons work as intended and the app functions as a digital cassette deck. 

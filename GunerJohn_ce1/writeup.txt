@@ -1,0 +1,8 @@
+FreeSound Source URL: https://freesound.org/people/Kevcio/sounds/263871/
+
+
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below: The UGen I used is a low-pass filter in which filters out frequencies above the value it is set to. It it controllable via a slider.
+
